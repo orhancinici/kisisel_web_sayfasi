@@ -3,4 +3,4 @@
 Bu proje, modern ve responsive bir kişisel web sayfasıdır. kariyerini, becerilerini ve projelerini estetik ve işlevsel biçimde ziyaretçilere sunabilirsin.
 Tüm cihazlarda —mobil, tablet ve masaüstü— sorunsuz bir şekilde kullanılabilmektedir...
 
-<img src="[resim_url_veya_yolu](https://github.com/orhancinici/kisisel_web_sayfasi/blob/main/kisisel_web_sayfasi_img_1.png)" alt="Açıklama Metni" width="300" height="200">
+<img src="[resim_url_veya_yolu]([https://github.com/orhancinici/kisisel_web_sayfasi/blob/main/kisisel_web_sayfasi_img_1.png](https://raw.githubusercontent.com/orhancinici/kisisel_web_sayfasi/refs/heads/main/kisisel_web_sayfasi_img_1.png))" alt="Açıklama Metni" width="300" height="200">
